@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969135474184",
+    "firebase_url": "https://notes-3539d.firebaseio.com",
+    "project_id": "notes-3539d",
+    "storage_bucket": "notes-3539d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969135474184:android:bae71231f251725b",
+        "android_client_info": {
+          "package_name": "com.crycetruly.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969135474184-cvf4mn0o3n39u2q57iqiqj3fs5kmoasf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crycetruly.journalapp",
+            "certificate_hash": "a638a5b8f6c32ac03fa69c8425e6941da64d3b16"
+          }
+        },
+        {
+          "client_id": "969135474184-gapffu99oq0tbtf7fpb6i2kanhdk782t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4_DG471EkH-fBtZ1A4gr2s40N3Irzts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969135474184-gapffu99oq0tbtf7fpb6i2kanhdk782t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
